@@ -5,7 +5,10 @@ El usuario debe ingresar las dimensaiones de la matriz
 
 ejemplo:
 
-AXB
+
+xdxdxdxdxdxd
+
+ AXB
 
 'Ingrese numero de filas matriz A: 2'
 'Ingrese numero de columnas matriz A: 2'
